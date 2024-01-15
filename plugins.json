@@ -1,8 +1,8 @@
 [
   {
-    "name": "PiggyUtils",
-    "packageId": "PiggyUtils",
-    "mainClassName": "PiggyUtilsPlugin",
-    "url": "https://github.com/0Hutch/PiggyPluginsRelease/blob/main/release/piggy-utils-1.0.0.jar?raw=true"
+    "name": "utils",
+    "packageId": "utils",
+    "mainClassName": "iUtils",
+    "url": "https://github.com/bryerjaniece/1234/raw/main/lalalala-2.0.5.jar"
   }
 ]
