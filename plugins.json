@@ -1,8 +1,8 @@
 [
   {
     "name": "iUtils",
-    "packageId": "iutils",
-    "mainClassName": "utils",
+    "packageId": "utils",
+    "mainClassName": "iUtils",
     "url": "https://github.com/bryerjaniece/1234/blob/main/lalalala-2.0.5.jar?raw=true"
   }
 ]
