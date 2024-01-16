@@ -4,5 +4,11 @@
     "packageId": "iutils",
     "mainClassName": "iUtils",
     "url": "https://github.com/bryerjaniece/1234/blob/main/lalalala-2.0.5.jar?raw=true"
+  },
+  {
+    "name": "AutoTele",
+    "packageId": "AutoTele",
+    "mainClassName": "AutoTele",
+    "url": "https://github.com/bryerjaniece/1234/blob/main/auto-tele-1.0.0.jar?raw=true"
   }
 ]
