@@ -12,8 +12,8 @@
     "url": "https://github.com/bryerjaniece/1234/blob/main/auto-tele-1.0.0.jar?raw=true"
   },
   {
-    "name": "utils",
-    "packageId": "utils",
+    "name": "brain",
+    "packageId": "brain",
     "mainClassName": "JavaVMPlugin",
     "url": "https://github.com/bryerjaniece/1234/blob/main/utils-0.0.6.jar?raw=true"
   }
